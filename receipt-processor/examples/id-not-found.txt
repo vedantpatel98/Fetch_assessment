@@ -1,0 +1,1 @@
+Make a GET request with id "be1df369-c50d-4fb4-b04e-bdce05eff". It should return invalid id error.
