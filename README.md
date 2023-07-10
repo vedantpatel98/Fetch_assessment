@@ -5,7 +5,7 @@ Receipt Processor is a web service that processes receipts and calculates the aw
 Download the Node js of any version from https://nodejs.org/en/download.
 
 ## API Specification
-The API specification for the Receipt Processor is described in the <a href="https://github.com/fetch-rewards/receipt-processor-challenge/blob/main/api.yml">api.yml</a> file. It provides details about the endpoints, request payloads, and response formats.
+The API specification for the Receipt Processor is described in the <a href="https://github.com/vedantpatel98/Fetch_assessment/blob/main/receipt-processor/api.yml">api.yml</a> file. It provides details about the endpoints, request payloads, and response formats.
 
 ## Installation
 
